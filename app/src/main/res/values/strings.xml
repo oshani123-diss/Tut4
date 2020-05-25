@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Tutorial04</string>
+    <string name="username_txt">User name</string>
+    <string name="password_txt">Password</string>
+    <string name="nam_Value">Name</string>
+    <string name="password_value">Password</string>
+    <string name="selectall_btn">SELECT ALL</string>
+    <string name="add_btn">ADD</string>
+    <string name="signin_btn">SIGN IN</string>
+    <string name="delete_btn">DELETE</string>
+    <string name="update_btn">UPDATE</string>
+</resources>
